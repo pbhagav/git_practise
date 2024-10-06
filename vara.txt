@@ -1,8 +1,1 @@
-mother
-is my ;ife.
-dfk;gf;kg
-;lkg;dk;g'd
-;dlgk;dkg;kljg;'dkg
-jg;d'kgd
-jg;djkfg
-jg;jfg
+I have tested this file to learn git pull concept.
